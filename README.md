@@ -1,4 +1,4 @@
-# Plasmic Example Website
+# Plasmic Website - Work in progress
 
 This is a Next.js project bootstrapped with [`create-plasmic-app`](https://www.npmjs.com/package/create-plasmic-app).
 krweb.plasmic.run for a demo of the website. Beware, it might run a little slow as it’s only for temporary use and runs on plasmic servers. Future work might include importing react components and deploying them to Cercel.
