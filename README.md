@@ -1,25 +1,30 @@
-This is a Next.js project bootstrapped with [`create-plasmic-app`](https://www.npmjs.com/package/create-plasmic-app).
+# Plasmic Example Website
 
-## Getting Started
+This is a Next.js project bootstrapped with [`create-plasmic-app`](https://www.npmjs.com/package/create-plasmic-app).
+krweb.plasmic.run for a demo of the website. Beware, it might run a little slow as it’s only for temporary use and runs on plasmic servers. Future work might include importing react components and deploying them to Cercel.
 
-First, run the development server:
+Mobile Use is not available at the moment.
 
-```bash
-npm run dev
-```
+## Homepage
 
-Open your browser to see the result.
+The homepage boasts a sleek, modern design utilizing Plasmic's built-in features, including a spinning image within a container. An example video is displayed to showcase Plasmic's video embedding capabilities. The remainder of the page provides links to other sections of the site
 
-You can start editing your project in Plasmic Studio. The page auto-updates as you edit the project.
+![Untitled](Plasmic%20Example%20Website%20ed8389e2104b4173834f9ba6cc5547a5/Untitled.png)
 
-## Learn More
+![Untitled](Plasmic%20Example%20Website%20ed8389e2104b4173834f9ba6cc5547a5/Untitled%201.png)
 
-With Plasmic, you can enable non-developers on your team to publish pages and content into your website or app.
+![Untitled](Plasmic%20Example%20Website%20ed8389e2104b4173834f9ba6cc5547a5/Untitled%202.png)
 
-To learn more about Plasmic, take a look at the following resources:
+## Services Page
 
-- [Plasmic Website](https://www.plasmic.app/)
-- [Plasmic Documentation](https://docs.plasmic.app/learn/)
-- [Plasmic Slack Community](https://www.plasmic.app/slack)
+Example of how I would implement a services page for users to browse services
 
-You can check out [the Plasmic GitHub repository](https://github.com/plasmicapp/plasmic) - your feedback and contributions are welcome!
+![Untitled](Plasmic%20Example%20Website%20ed8389e2104b4173834f9ba6cc5547a5/Untitled%203.png)
+
+## Projects Page
+
+The project page directs visitors to my GitHub repositories, where each project is hosted along with a comprehensive report detailing its development and features
+
+![Untitled](Plasmic%20Example%20Website%20ed8389e2104b4173834f9ba6cc5547a5/Untitled%204.png)
+
+![Untitled](Plasmic%20Example%20Website%20ed8389e2104b4173834f9ba6cc5547a5/9aef1550-93ac-4d1c-acb5-94789e4fcc79.png)
